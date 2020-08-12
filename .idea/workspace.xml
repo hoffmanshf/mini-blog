@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39ece0f1-10c8-45ce-a758-024e4fedb5fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1fQrfjohlvipByafEmoss7ZLwe0" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.kubernetes.config.KubernetesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/comments" />
+      <recent name="$PROJECT_DIR$/event-bus" />
+      <recent name="$PROJECT_DIR$/moderation" />
+      <recent name="$PROJECT_DIR$/query" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="posts/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="hoffmanshf/mini-posts" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="posts/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.posts/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ece0f1-10c8-45ce-a758-024e4fedb5fb" name="Default Changelist" comment="" />
+      <created>1596161262728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596161262728</updated>
+      <workItem from="1596161263799" duration="1396000" />
+      <workItem from="1596165817950" duration="18000" />
+      <workItem from="1596223163431" duration="6477000" />
+      <workItem from="1596334559495" duration="1199000" />
+      <workItem from="1597199258562" duration="7744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596227569569">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1596227569569" />
+    <state x="489" y="113" key="SettingsEditor" timestamp="1597206108126">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="239" y="88" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1596334496180" />
+    <state x="489" y="113" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1597206108126" />
+  </component>
+</project>
